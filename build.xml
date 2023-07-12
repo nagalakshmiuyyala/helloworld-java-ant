@@ -1,4 +1,4 @@
-<project name="myfirst1" basedir="." default="package">
+<project name="helloworld-java-ant" basedir="." default="package">
 
 <property name="src" value="src" />
 
